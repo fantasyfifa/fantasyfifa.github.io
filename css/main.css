@@ -19,12 +19,8 @@ a {
 a:hover {
     text-decoration: none;
     border : 1px solid grey;
-    padding : 10px 20px;
-    text-transform : uppercase;
-    background-colour : grey;
-    colour : white;
-    transition : all 0.25s ease-in;
-}
+    padding : 5px 5px;
+ }
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
