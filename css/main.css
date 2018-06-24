@@ -18,9 +18,10 @@ a {
 }
 a:hover {
     text-decoration: none;
-    border : 1px solid black;
+    border : 1px solid grey;
+    padding : 10px 20px;
     text-transform : uppercase;
-    background-colour : #999;
+    background-colour : grey;
     colour : white;
     transition : all 0.25s ease-in;
 }
