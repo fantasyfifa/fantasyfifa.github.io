@@ -13,7 +13,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-nav ul li,footer ul li{
+nav ul li,footer ul li : hover{
     border : 1px solid grey;
     padding : 5px 5px;
 }
