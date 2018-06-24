@@ -17,7 +17,12 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    border : 1px solid black;
+    text-transform : uppercase;
+    background-colour : #999;
+    colour : white;
+    transition : all 0.25s ease-in;
 }
 h1 {
     font-size: 3em;
